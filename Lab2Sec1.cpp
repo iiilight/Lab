@@ -41,7 +41,7 @@ do{
                    }
                    for(j=1;j<=x;j++)
                    {
-                     y=y*j;
+                     y=y+j;
                    }
 
                    cout<<"Output: "<<y<<endl;
